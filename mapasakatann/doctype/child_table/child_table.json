@@ -1,0 +1,33 @@
+{
+ "creation": "2023-03-09 15:13:27.535301",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "lon",
+  "lat"
+ ],
+ "fields": [
+  {
+   "fieldname": "lon",
+   "fieldtype": "Data",
+   "label": "longitude"
+  },
+  {
+   "fieldname": "lat",
+   "fieldtype": "Data",
+   "label": "lattitude"
+  }
+ ],
+ "istable": 1,
+ "modified": "2023-03-09 15:13:31.851508",
+ "modified_by": "Administrator",
+ "module": "Mapasakatann",
+ "name": "child_table",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
